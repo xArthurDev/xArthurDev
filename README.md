@@ -9,5 +9,5 @@
 <div>
   <a href="https://github.com/xArthurDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xArthurDev&show_icons=true&theme=tokyonight&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xArthurDev&theme=tokyonight&langs_count=16&layout=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xArthurDev&theme=tokyonight&langs_count=16&layout=compact">
 </div>
