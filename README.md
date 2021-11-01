@@ -5,3 +5,9 @@
 <li>Atualmente em 2021 estou trabalhando em alguns projetos com a empresa Auditore e a empresa Beardev, variando dos frameworks Angular, React e Ionic, a maior parte dos desenvolvimentos são baseados no frontend, mas estudando e aprendendo bastante coisa sobre o backend, integrações de API, criação de features e etc.</li>
 </ul>
 </blockquote>
+
+<div>
+  <a href="https://github.com/xArthurDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xArthurDev&show_icons=true&theme=tokyonight&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xArthurDev&theme=tokyonight&langs_count=16&layout=compact">
+</div>
