@@ -1,7 +1,7 @@
 Hi 👋 My name is Arthur Ribeiro | 'Kenshi'
 ==========================================
 
-Frontend Developer, Designer, UX, Learning Backend
+Fullstack Developer, Designer, UX.
 --------------------------------------------------
 
 I have been learning programming since 2020, I started with HTML, CSS, then I learned how they work with javascript and typescript, I migrated to Angular and then to Ionic, I used all versions of the framework from 2020 until today, I studied about React and did some projects in it, I created several applications of my own that I want to continue, they will soon be available here on this profile. I am currently honing my frontend, backend and devops skills.
