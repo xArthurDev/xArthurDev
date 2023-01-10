@@ -4,7 +4,7 @@ Hi 👋 My name is Arthur Ribeiro | 'Kenshi'
 Fullstack Developer, Designer, UX.
 --------------------------------------------------
 
-I have been learning programming since 2020, I started with HTML, CSS, then I learned how they work with javascript and typescript, I migrated to Angular and then to Ionic, I used all versions of the framework from 2020 until today, I studied about React and did some projects in it, I created several applications of my own that I want to continue, they will soon be available here on this profile. I am currently honing my frontend, backend and devops skills.
+I've been learning programming since 2020, I started with HTML, CSS, then I learned how they work with javascript and typescript, I migrated to Angular and then to Ionic, I used all versions of the framework from 2020 until today, I studied React and did some projects in it, I created several applications of my own that I want to continue, will soon be available here in this profile. I am currently improving my frontend, backend and devops skills. Solid experience with Angular and Ionic, +3 Years, experience in large projects with Nest.js that uses Node as a base, +1 year and a half, working with SQL and No-SQL Database.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [arthur.ribeiro@auditore.com.br](mailto:arthur.ribeiro@auditore.com.br)
