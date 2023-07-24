@@ -4,12 +4,13 @@ Hi 👋 My name is Arthur Ribeiro | 'Kenshi'
 Fullstack Developer, Designer, UX.
 --------------------------------------------------
 
-I've been learning programming since 2020, I started with HTML, CSS, then I learned how they work with javascript and typescript, I migrated to Angular and then to Ionic, I used all versions of the framework from 2020 until today, I studied React and did some projects in it, I created several applications of my own that I want to continue, will soon be available here in this profile. I am currently improving my frontend, backend and devops skills. Solid experience with Angular and Ionic, +3 Years, experience in large projects with Nest.js that uses Node as a base, +1 year and a half, working with SQL and No-SQL Database.
+I have hands-on experience with large projects utilizing Nest.js on top of Node, collaborating with SQL and No-SQL databases. My code philosophy revolves around Clean Code and SOLID principles, ensuring maintainable and well-tested solutions.
+I enjoy automating processes to boost productivity and thrive on presenting innovative solutions to complex challenges. Currently, I'm continuously refining my frontend, backend, and DevOps skills to stay at the forefront of technology.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [arthur.ribeiro@auditore.com.br](mailto:arthur.ribeiro@auditore.com.br)
 * 🚀  I'm currently working on [Hykem Grocery, Hykem Delivery, Hykem Flix and another projects that are from other companies.](http://auditore.com.br)
-* 🧠  I'm learning Nest.JS, Ionic Framework, Angular.TS, React Framework.
+* 🧠  I'm learning Nest.JS, Ionic Framework, Angular, React Framework.
 * 🤝  I'm open to collaborating on Open source projects and amazing ideas for change the world.
 
 <a href="https://www.twitch.tv/arthuzinfx" target="_blank" rel="noreferrer"><img
