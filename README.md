@@ -8,8 +8,8 @@ I have hands-on experience with large projects utilizing Nest.js on top of Node,
 I enjoy automating processes to boost productivity and thrive on presenting innovative solutions to complex challenges. Currently, I'm continuously refining my frontend, backend, and DevOps skills to stay at the forefront of technology.
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [arthur.ribeiro@auditore.com.br](mailto:arthur.ribeiro@auditore.com.br)
-* 🚀  I'm currently working on [Hykem Grocery, Hykem Delivery, Hykem Flix and another projects that are from other companies.](http://auditore.com.br)
+* ✉️  You can contact me at [arthurrguimaraes12@gmail.com](mailto:arthurrguimaraes12@gmail.com)
+* 🚀  I'm currently working on [Hykem Grocery, Hykem Delivery, Hykem Flix and another projects that are from other companies.]
 * 🧠  I'm learning Nest.JS, Ionic Framework, Angular, React Framework.
 * 🤝  I'm open to collaborating on Open source projects and amazing ideas for change the world.
 
