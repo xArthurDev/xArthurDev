@@ -13,8 +13,8 @@ I enjoy automating processes to boost productivity and thrive on presenting inno
 * 🧠  I'm learning Nest.JS, Ionic Framework, Angular, React Framework.
 * 🤝  I'm open to collaborating on Open source projects and amazing ideas for change the world.
 
-<a href="https://www.twitch.tv/arthuzinfx" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/arthuzinfx?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.twitch.tv/kenshi_hikari" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/kenshi_hikari?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
 
 <p align="left">
