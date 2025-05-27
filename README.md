@@ -1,4 +1,4 @@
-Hi 👋 My name is Arthur Ribeiro | 'Kenshi'
+Hi 👋 My name is Arthur Ribeiro
 ==========================================
 
 Fullstack Developer, Designer, UX.
@@ -9,8 +9,8 @@ I enjoy automating processes to boost productivity and thrive on presenting inno
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [arthurrguimaraes12@gmail.com](mailto:arthurrguimaraes12@gmail.com)
-* 🚀  I'm currently working on [Hykem Grocery, Hykem Delivery, Hykem Flix and another projects that are from other companies.]
-* 🧠  I'm learning Nest.JS, Ionic Framework, Angular, React Framework.
+* 🚀  I have some own projects that are in development phase: Hykem Grocery, Hykem Delivery, Hykem Flix.
+* 🧠  I'm working with Nest.JS, Ionic Framework, Angular, React Framework.
 * 🤝  I'm open to collaborating on Open source projects and amazing ideas for change the world.
 
 <a href="https://www.twitch.tv/kenshi_hikari" target="_blank" rel="noreferrer"><img
